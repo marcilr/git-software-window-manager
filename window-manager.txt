@@ -1,0 +1,7 @@
+window-manager.txt
+Created Fri Oct  9 15:35:29 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Window manager
+
