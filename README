@@ -1,0 +1,15 @@
+README
+Created Mon Aug  1 13:28:58 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+links.txt
+  Window manager related links
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under window-manager/
+
+window-manager.txt
+  Window manager
