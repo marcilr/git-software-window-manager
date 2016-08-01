@@ -1,0 +1,40 @@
+#
+# svn_ext_val.txt
+# Created Fri Oct  9 15:31:20 AKDT 2015
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+#
+# List of repo hierarchical directories to checkout under window-manager/
+#
+# awesome/    Highly configurable, next generation framework window manager
+#             for X.  It is very fast, extensible and licensed under the
+#             GNU GPLv2 license.
+#             http://awesome.naquadah.org/
+#
+# docs/       Documentation
+#
+# gnome/      GNU Object Model Environment
+#             Building a full, user-friendly desktop for
+#             Unix operating systems, based entirely on free
+#             software.
+#             http://www.gnome.org/
+#
+# oroborus/   Simplistic window manager.
+#
+# xfce/       Xfce is a lightweight desktop environment for UNIX-like
+#             operating systems.  It aims to be fast and low on system
+#             resources, while still being visually appealing and user
+#             friendly.
+#             http://www.xfce.org/
+#
+# xorg/       X.Org Server
+#             http://www.x.org/wiki/
+#             http://en.wikipedia.org/wiki/Xorg
+#
+../../window-manager/awesome/awesome     ./awesome
+../../window-manager/docs/docs           ./docs
+../../window-manager/gnome/gnome         ./gnome
+../../window-manager/oroborus/oroborus   ./oroborus
+../../window-manager/xfce/xfce           ./xfce
+../../window-manager/xorg/xorg           ./xorg
