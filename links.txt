@@ -1,0 +1,29 @@
+links.txt
+Created Fri Oct  9 15:36:27 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Window manager related links
+
+
+Links
+=====
+Gnome
+GNU Object Model Environment
+Building a full, user-friendly desktop for
+Unix operating systems, based entirely on free
+software.
+http://www.gnome.org/
+
+oroborus
+Oroborus basically is a really minimalistic window manager, which is about
+75kb small on a PowerPC machine and about 63kb on an x86 machine.
+"Minimalistic" means that the Oroborus window manager doesn't provide some
+things other window managers provide.  So you will need some external tools
+also provided by this project.
+Supports, KeyLaunch, DeskMenu, and DeskLaunch
+http://www.oroborus.org/
+
+X.Org Server
+http://www.x.org/wiki/
+http://www.oroborus.org/http://en.wikipedia.org/wiki/Xorg
