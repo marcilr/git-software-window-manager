@@ -13,6 +13,8 @@ monitors see the Multihead page.
 --archlinux.org
 
 
+Use fro configuration of 2x 24" displays under Debian jessie 8.9 amd64.
+
 
 Change to multi-display layout to portrait not landscape
 ========================================================
