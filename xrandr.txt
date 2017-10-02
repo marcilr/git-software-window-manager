@@ -1,0 +1,45 @@
+xrandr.txt
+Created Mon Oct  2 10:22:35 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+xrandr - primitive command line interface to RandR extension
+
+
+xrandr is an official configuration utility to the RandR X Window
+System extension.  It can be used to set the size, orientation or
+reflection of the outputs for a screen.  For configuring multiple
+monitors see the Multihead page.
+--archlinux.org
+
+
+
+Change to multi-display layout to portrait not landscape
+========================================================
+Inspect current orientation:
+  malachite:~$ xrandr -q
+  Screen 0: minimum 320 x 200, current 2560 x 1024, maximum 8192 x 8192
+  DP-1 connected primary 1280x1024+0+0 (normal left inverted right x axis y axis) 531mm x 299mm
+     1920x1080     60.00 +
+     ...
+     720x400       70.08
+  DP-2 connected 1280x1024+1280+0 (normal left inverted right x axis y axis) 531mm x 299mm
+     1920x1080     60.00 +
+     720x400       70.08
+  malachite:~$
+
+Change to multi-display layout to portrait not landscape:
+  malachite:~$ xrandr --output DP-2 --above DP-1
+
+
+Change from 1920x1080 to 
+
+
+Links
+=====
+xrandr
+https://wiki.archlinux.org/index.php/xrandr
+
+XSF / How to use xrandr
+Cyril Brulebois <kibi@debian.org>
+https://pkg-xorg.alioth.debian.org/howto/use-xrandr.html
