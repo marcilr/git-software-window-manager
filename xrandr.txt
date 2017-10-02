@@ -32,11 +32,19 @@ Change to multi-display layout to portrait not landscape:
   malachite:~$ xrandr --output DP-2 --above DP-1
 
 
-Change from 1920x1080 to 
+Change from 1280x1024 to 1920x1080
+==================================
+malachite:~$ xrandr --output DP-1 --mode 1920x1080 --output DP-2 --mode 1920x1080 --above DP-1
+
+That did the trick now need wallpaper.
+
 
 
 Links
 =====
+Multihead
+https://wiki.archlinux.org/index.php/multihead
+
 xrandr
 https://wiki.archlinux.org/index.php/xrandr
 
