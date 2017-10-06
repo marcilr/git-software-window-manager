@@ -20,3 +20,5 @@ xfce/
   appealing and user friendly.
   http://www.xfce.org/
 
+xrandr.txt
+  xrandr - primitive command line interface to RandR extension

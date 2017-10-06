@@ -15,6 +15,10 @@ Unix operating systems, based entirely on free
 software.
 http://www.gnome.org/
 
+How can I use just one unified clipboard? (even for IntelliJ's “copy path”)
+Great references to clipboard managers and such.
+https://unix.stackexchange.com/questions/13585/how-can-i-use-just-one-unified-clipboard-even-for-intellijs-copy-path
+
 oroborus
 Oroborus basically is a really minimalistic window manager, which is about
 75kb small on a PowerPC machine and about 63kb on an x86 machine.
@@ -23,6 +27,11 @@ things other window managers provide.  So you will need some external tools
 also provided by this project.
 Supports, KeyLaunch, DeskMenu, and DeskLaunch
 http://www.oroborus.org/
+
+X Selections, Cut Buffers, and Kill Rings.
+1997, 2002 by Jamie Zawinski <jwz@jwz.org>
+Great page on Primary (application centric) vs. Clipboard selection (highlight)
+https://www.jwz.org/doc/x-cut-and-paste.html
 
 X.Org Server
 http://www.x.org/wiki/
